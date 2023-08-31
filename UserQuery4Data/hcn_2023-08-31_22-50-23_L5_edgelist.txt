@@ -1,0 +1,9 @@
+Yan Zhong 2019, Luigi Atzori 2010, 0.0
+Hamid Bostani 2017, Sabrina Sicari 2015, 0.0035211267605633804
+Jerome P. Lynch 2006, Uday Shankar Shanthamallu 2017, 0.0
+Jerome P. Lynch 2006, A. Partridge 2000, 0.0
+Ari Juels 2006, Luigi Atzori 2010, 0.0
+Ari Juels 2006, Ari Juels 2006, 0.034482758620689655
+Luigi Atzori 2010, Sabrina Sicari 2015, 0.0035211267605633804
+Sabrina Sicari 2015, David Evans 2012, 0.0
+David Evans 2012, David Evans 2012, 0.05

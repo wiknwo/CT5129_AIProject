@@ -1,0 +1,7 @@
+Robert E. Smith 1993, David E. Moriarty 1997, 0.0
+Kenneth O. Stanley 2009, Kenneth O. Stanley 2019, 0.03211009174311927
+Kenneth O. Stanley 2009, Maciej Komosinski 2001, 0.0
+Hermann Mayer 2008, Sepp Hochreiter 1997, 0.0
+Axel Cleeremans 1989, Sepp Hochreiter 1997, 0.0
+Sepp Hochreiter 1997, Kenneth O. Stanley 2019, 0.0
+Maciej Komosinski 2001, Maciej Komosinski 2001, 0.0

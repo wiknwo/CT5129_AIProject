@@ -1,0 +1,7 @@
+Zixiao Pan 2018, J. Behnamian 2011, 0.0
+D. H. Younger 1963, Jean Pierre Barthelemy 1989, 0.0
+Jean Pierre Barthelemy 1989, Gonzalo Gamboa 2007, 0.0
+Jinsong Wu 2016, Rudi Cilibrasi 2005, 0.004424778761061947
+Jinsong Wu 2016, Jinsong Wu 2016, 0.0032258064516129032
+Mary E. Kurz 2003, J. Behnamian 2011, 0.01694915254237288
+Rudi Cilibrasi 2005, Charles H. Bennett 1998, 0.010869565217391304

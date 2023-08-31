@@ -1,0 +1,9 @@
+Uwe Schauz 2008, Aden Forrow 2014, 0.016666666666666666
+Uwe Schauz 2008, Noga Alon 1992, 0.034482758620689655
+Uwe Schauz 2008, Uwe Schauz 2008, 0.04411764705882353
+Hung-Lin Chi 2011, Gary McGuire 2014, 0.0
+Hung-Lin Chi 2011, Gary McGuire 2012, 0.0
+Gary McGuire 2012, Aden Forrow 2014, 0.022727272727272728
+Aden Forrow 2014, Noga Alon 1992, 0.0
+Peter Cheeseman 1991, A. E. Eiben 1998, 0.02
+Rhyd Lewis 2007, A. E. Eiben 1998, 0.010416666666666666
