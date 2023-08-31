@@ -1,0 +1,10 @@
+Xinyi Li 2019, Xia Ning 2011, 0.01639344262295082
+Xinyi Li 2019, Yichen Jiang 2012, 0.0
+Xinyi Li 2019, Xinyi Li 2019, 0.015873015873015872
+Xia Ning 2011, Yifan Hu 2008, 0.043478260869565216
+Marko Balabanovic 1997, Yichen Jiang 2012, 0.0
+Marko Balabanovic 1997, Marko Balabanovic 1997, 0.06
+Marko Balabanovic 1997, Paul Resnick 1994, 0.0
+Xiao Ma 2019, Jian Tang 2015, 0.021739130434782608
+Josh Tenenbaum 2000, Jian Tang 2015, 0.0
+Jian Tang 2015, Jian Tang 2015, 0.08333333333333333
